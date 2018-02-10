@@ -1,0 +1,15 @@
+MANIFEST.in
+README
+setup.py
+bictools/__init__.py
+bictools.egg-info/PKG-INFO
+bictools.egg-info/SOURCES.txt
+bictools.egg-info/dependency_links.txt
+bictools.egg-info/top_level.txt
+bictools/scripts/__init__.py
+bictools/scripts/bic_CSV.py
+bictools/scripts/bic_DB.py
+bictools/scripts/bic_evaluate.py
+scripts/bictools-bic_CSV
+scripts/bictools-bic_DB
+scripts/bictools-bic_evaluate

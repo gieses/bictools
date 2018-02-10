@@ -1,0 +1,16 @@
+Metadata-Version: 0.1dev
+Name: bictools
+Version: 0.1dev
+Summary: bictools - a python package to perform variant detection on proteomic MS data using BICEPS (Renard et al. 2012).
+Home-page: https://sourceforge.net/projects/bictools/
+Author: Sven H. Giese
+Author-email: sven.giese@tu-berlin.de
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: numpy
+Requires: pandas
+Requires: matplotlib
+Requires: HTSeq
+Requires: pyopenms
+Requires: brewer2mpl

@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+import bictools.scripts.bic_DB
+
+HTSeq.scripts.count.main()

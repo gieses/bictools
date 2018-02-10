@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+import bictools.scripts.bic_evaluate
+
+bictools.scripts.bic_evaluate.main()

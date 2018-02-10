@@ -1,0 +1,23 @@
+bictools - a python package to perform variant detection on proteomic MS data using BICEPS (Renard et al. 2012).
+
+This repository contains a convenient KNIME workflow to perform the analysis of MS data via OpenMS and a python package (bictools) to handle results from the peptide identification from BICEPs. The combination of both utilities allows to execute the proteomic variant detection workflow.
+
+**legacy commit from sourceforge (https://sourceforge.net/projects/bictools/)**
+
+Welcome to the bictools wiki!
+
+This page contains all necessary information to perform a variant detection with BICEPs. However, you will require a list of software installed on your computer to run the analysis smoothly.
+
+    KNIME with OpenMS Extension (http://www.knime.org/downloads/overview)
+    python 2.7 (https://www.python.org/)
+
+In addition you need the following python packages:
+- pandas (http://www.pandas.pydata.org)
+- HTSeq (http://www-huber.embl.de/HTSeq/)
+- matplotlib (http://www.matplotlib.org)
+- pyopenms (https://pypi.python.org/pypi/pyopenms)
+- brewer2mpl (https://pypi.python.org/pypi/brewer2mpl/1.4)
+
+
+See the wiki page for detailed information and a tutorial.
+

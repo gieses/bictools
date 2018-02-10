@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+import bictools.scripts.bic_CSV
+
+bictools.scripts.bic_CSV.main()
